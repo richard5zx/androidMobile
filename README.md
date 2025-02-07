@@ -8,32 +8,34 @@ A simple calculator to perform addition, subtraction, multiplaction, and divisio
 ![Calculator](https://github.com/user-attachments/assets/a2114677-abc8-45e7-9442-e9be0057c0f5)
 
 ## Project 02: Lottery
-<!---
-your comment goes here
-and here
-## Project 02 - 15: 
 
-## Project 02: etc
+<!--- TBC
 
+## Project 03: Lucky Number
 
-## Project 02: etc
+## Project 04: Intent
 
+## Project 05: Life Cycle
 
-## Project 02: etc
+## Project 06: Call Phone
 
-## Project 02: etc
+## Project 07: Alert Dialog
 
-## Project 02: etc
+## Project 08: Adapter
 
-## Project 02: etc
+## Project 09: Mora Game
 
+## Project 10: Notifications
 
-## Project 02: etc
+## Project 11: Stop Watch
 
+## Project 12: You Bike
 
-## Project 02: etc
+## Project 13: GPS
 
-## Project 02: etc
+## Project 14: Google Maps
+
+## Project 15: Fragment
 -->
 
 
