@@ -7,7 +7,7 @@ A dozen or so mini android projects using Java and Android Studio
 A simple calculator to perform addition, subtraction, multiplaction, and division between two numbers
 
 ![cal](https://github.com/user-attachments/assets/f2d4b75a-58b4-4dce-97f2-2ea4cb40b212)
-->
+-> Enter two numbers ->
 ![Calculator](https://github.com/user-attachments/assets/a2114677-abc8-45e7-9442-e9be0057c0f5)
 
 ## Project 02: Lottery
